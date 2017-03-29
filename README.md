@@ -7,7 +7,7 @@
 
 
 ## Instalasi
-##### Kebutuhan
+### Kebutuhan
   - PHP 5.3.2+
   - MySQL:
     - MySQL 4.1+
@@ -15,6 +15,8 @@
   - SQLite:
     -SQLite 3+
     -PDO
+### Cara Instalasi
+ [chirp lite] (https://github.com/xenocrat/chyrp-lite/archive/v2017.01.tar.gz)
     
 ## Cara Pemakaian
 
