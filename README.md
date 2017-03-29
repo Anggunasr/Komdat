@@ -35,12 +35,12 @@ Menurut persepektif developer, Chyrp Lite memiliki beberapa kelebihan sebagai be
 - Meskipun mendeklarasikan diri sebagai hasil rekonstruksi agresif dari Chyrp, secara umum Chyrp Lite tidak memiliki kelebihan signifikan dibandingkan Chyrp.
 
 ### Aplikasi Serupa
-- [Bludit] (https://github.com/dignajar/bludit) 
+- [Bludit](https://github.com/dignajar/bludit) 
 Bludit merupakan sebuah aplikasi web sederhana yang digunakan untuk membuat blog maupun situs pribadi hanya dalam singkat. Bludit merupakan aplikasi gratis dan open source. Sama seperti Chyrp, Bludit merupakan platform blog berbasis PHP serta telah memiliki lisensi MIT. 
 
 Salah satu kelebihan dari Bludit yaitu penggunaan flat-files untuk penyimpanannya, sehingga tak perlu lagi melakukan install maupun konfigurasi database. Kelebihan lainnya yaitu adanya fitur Cli Mode (Command line Interface Mode) dimana pengguna dapat membuat, mengubah atau menghapus pages atau posts tanpa harus melalui tampilan web.
 
 ## Referensi
-1. [What can Chyrp Lite do for me?] (https://chyrplite.net) - Chyrplite
-2. [Why yet another template engine?] (http://twig.sensiolabs.org/) - Twig
-3. [Introduction | Bludit ] (https://github.com/dignajar/bludit) - Bludit
+1. [What can Chyrp Lite do for me?](https://chyrplite.net) - Chyrplite
+2. [Why yet another template engine?](http://twig.sensiolabs.org/) - Twig
+3. [Introduction | Bludit ](https://github.com/dignajar/bludit) - Bludit
