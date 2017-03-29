@@ -34,6 +34,8 @@ Menurut persepektif developer, Chyrp Lite memiliki beberapa kelebihan sebagai be
 ### Kekurangan
 - Meskipun mendeklarasikan diri sebagai hasil rekonstruksi agresif dari Chyrp, secara umum Chyrp Lite tidak memiliki kelebihan signifikan dibandingkan Chyrp.
 
+-Text editor dari Chyrp Lite tidak terdapat WYSIWYG (yang memungkinkan user melihat hasil akhir interface dari sebuah post sembari user tersebut mengedit postnya)
+
 ### Aplikasi Serupa
 #### [Bludit](https://github.com/dignajar/bludit) 
 Bludit merupakan sebuah aplikasi web sederhana yang digunakan untuk membuat blog maupun situs pribadi hanya dalam singkat. Bludit merupakan aplikasi gratis dan open source. Sama seperti Chyrp, Bludit merupakan platform blog berbasis PHP serta telah memiliki lisensi MIT. 
