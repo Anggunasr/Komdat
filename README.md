@@ -1,16 +1,7 @@
-# Chyrp Lite
-<br>
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi)
-:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
-## Sekilas Tentang
+# Komdat
+<h1> tag
 
 
-# Instalasi
-##### Kebutuhan
-
-# Cara Pemakaian
-
-# Aplikasi Serupa
-
-#Referensi
