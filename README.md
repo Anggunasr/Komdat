@@ -5,6 +5,9 @@
 
 ## Sekilas Tentang
 
+Chyrp lite adalah sebuah mesin blogging yang ringan, dikembangkan dengan PHP dan MySQL. Dengan Chyrp Lite, user dapat membuat sebuah blog baik itu blog, baik blog biasa maupun tumbleblog (blog yang postnya dapat berupa audio, quote, link, gambar, atau video).
+
+Terdapat fitur utama Feathers dan Pages. Feather digunakan untuk mengupload file-file multimedia seperti gambar, video, dan sebagainya sehingga blog yang dibuat menjadi seperti tumbleblog. Pages digunakan untuk membuat sebuah post secara terpisah dari blog utama, misal untuk membuat sebuah kategori post yang terpisah. Bisa dikatakan, Chyrp Lite merupakan gabungan dari blog dan tumbleblog.
 
 ## Instalasi
 ### Kebutuhan
