@@ -5,6 +5,9 @@
 
 ## Sekilas Tentang
 
+Chyrp lite adalah sebuah mesin blogging yang ringan, dikembangkan dengan PHP dan MySQL. Dengan Chyrp Lite, user dapat membuat sebuah blog baik itu blog, baik blog biasa maupun tumbleblog (blog yang postnya dapat berupa audio, quote, link, gambar, atau video).
+
+Terdapat fitur utama Feathers dan Pages. Feather digunakan untuk mengupload file-file multimedia seperti gambar, video, dan sebagainya sehingga blog yang dibuat menjadi seperti tumbleblog. Pages digunakan untuk membuat sebuah post secara terpisah dari blog utama, misal untuk membuat sebuah kategori post yang terpisah. Bisa dikatakan, Chyrp Lite merupakan gabungan dari blog dan tumbleblog.
 
 ## Instalasi
 ### Kebutuhan
@@ -34,7 +37,7 @@ Menurut persepektif developer, Chyrp Lite memiliki beberapa kelebihan sebagai be
 ### Kekurangan
 - Meskipun mendeklarasikan diri sebagai hasil rekonstruksi agresif dari Chyrp, secara umum Chyrp Lite tidak memiliki kelebihan signifikan dibandingkan Chyrp.
 
--Text editor dari Chyrp Lite tidak terdapat WYSIWYG (yang memungkinkan user melihat hasil akhir interface dari sebuah post sembari user tersebut mengedit postnya)
+- Text editor dari Chyrp Lite tidak terdapat WYSIWYG (yang memungkinkan user melihat hasil akhir interface dari sebuah post sembari user tersebut mengedit postnya)
 
 ### Aplikasi Serupa
 #### [Bludit](https://github.com/dignajar/bludit) 
@@ -46,3 +49,4 @@ Salah satu kelebihan dari Bludit yaitu penggunaan flat-files untuk penyimpananny
 1. [What can Chyrp Lite do for me?](https://chyrplite.net) - Chyrplite
 2. [Why yet another template engine?](http://twig.sensiolabs.org/) - Twig
 3. [Introduction | Bludit ](https://github.com/dignajar/bludit) - Bludit
+
