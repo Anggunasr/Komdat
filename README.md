@@ -1,16 +1,16 @@
 # Chyrp Lite
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Aplikasi Serupa](#aplikasi-serupa) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 
 
-# Instalasi
+## Instalasi
 ##### Kebutuhan
 
-# Cara Pemakaian
+## Cara Pemakaian
 
-# Aplikasi Serupa
+## Aplikasi Serupa
 
-#Referensi
+## Referensi
