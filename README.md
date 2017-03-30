@@ -1,6 +1,6 @@
 # Chyrp Lite
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Aplikasi Serupa](#aplikasi-serupa) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Pembahasan](#pembahasan) | [Aplikasi Serupa](#aplikasi-serupa) | [Referensi](#referensi)
 ---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
