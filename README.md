@@ -49,13 +49,13 @@ mysql -u root -p -v -e "
   CREATE USER wordpress IDENTIFIED BY 'password';
   GRANT ALL PRIVILEGES ON chyrp.* TO chyrp;"
  ```
-2. Download arsip tar.gz instalasi chyrp lite ke direktori sekarang
+2. Download arsip tar.gz instalasi chyrp lite Saxaul ke direktori sekarang
 ```bash
-wget "https://github.com/xenocrat/chyrp-lite/archive/v2017.01.tar.gz"
+wget "https://github.com/xenocrat/chyrp-lite/archive/v2015.06.zip"
 ```
 3. Ekstrak file yang sudah terunduh ke direktori
 ```bash
-sudo tar -xvzf v2017.01.tar.gz
+sudo tar -xvzf v2015.06.zip && mv chyrp-lite-2015.06 chyrplite
 ```
 4. Pindahkan direktori sekarang ke direktori chyrp
 ```bash
