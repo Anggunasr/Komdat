@@ -40,12 +40,17 @@ npm start
 ## Pembahasan
 [`kembali ke atas`](#chyrp-lite)
 ### Kelebihan
+1. Lebih menarik secara visual
+2. Syntax highlighting, memudahkan untuk membaca teks.
 
 
 ### Kekurangan
 
 ### Aplikasi Serupa
-[`kembali ke atas`](#chyrp-lite)
+#### Shrib
+Layaknya Hastebin, Shrib juga merupakan aplikasi sederhana yang digunakan untuk menyimpanan teks secara sementara. Shrib juga dapat menjaga keamanan catatan dengan cara memberikan password dengan meng-klik link 'lock these notes'. Kelebihan lain yang dimiliki oleh Shrib yaitu dapat mengkostumisasi link yaitu dengan menuliskan url Shrib diakhiri dengan nama link yang diinginkan untuk dibagi. Namun dari segi visal, Shrib masih kalah apabila dibandingkan dengan Hastebin. 
+[`kembali ke atas`]
+
 #### [Bludit](https://github.com/dignajar/bludit) 
 
 ## Referensi
