@@ -5,6 +5,9 @@
 
 ## Sekilas Tentang
 
+Hastebin adalah sebuah pastebin, yaitu aplikasi web untuk menyimpan teks. Bersifat open-source, dibuat dengan node.js, sehingga mudah diinstall di network apapun. Hastebin sangat mudah digunakan, cukup dengan menulis atau paste ke scriptnya, kemudian setelah disave akan muncul URL yang berisi teks yang sebelumnya diisikan ke script, dan dapat diakses. Hastebin tampil dengan antarmuka yang simpel dan nyaman dilihat. Teks yang disimpan dalam hastebin akan hilang setelah 30 hari dari saat teks tersebut terakhir dibuka. Teks dapat diubah atau dihapus oleh siapapun.
+
+
 
 ## Instalasi
 [`kembali ke atas`](#chyrp-lite)
@@ -40,17 +43,16 @@ npm start
 ## Pembahasan
 [`kembali ke atas`](#chyrp-lite)
 ### Kelebihan
-1. Lebih menarik secara visual
-2. Syntax highlighting, memudahkan untuk membaca teks.
-
+-Tampilan hastebin relatif lebih simpel dan nyaman dilihat dibanding aplikasi pastebin lainnya
+-Hastebin dapat mendeteksi bahasa pemrograman yang digunakan pada teks yang dituliskan (jika berupa source code), kemudian akan ditulis di URL dengan ekstensi berupa jenis bahasa pemrograman tersebut (misal: teks SQL disimpan di URL https://hastebin.com/inotoziquy.sql
+-Link URL selalu ditulis dengan huruf vokal-konsonan secara bergantian sehingga dapat dibaca.
 
 ### Kekurangan
+-Privasi tidak terjaga, teks dapat diubah dan dihapus oleh siapapun
+
 
 ### Aplikasi Serupa
-#### Shrib
-Layaknya Hastebin, Shrib juga merupakan aplikasi sederhana yang digunakan untuk menyimpanan teks secara sementara. Shrib juga dapat menjaga keamanan catatan dengan cara memberikan password dengan meng-klik link 'lock these notes'. Kelebihan lain yang dimiliki oleh Shrib yaitu dapat mengkostumisasi link yaitu dengan menuliskan url Shrib diakhiri dengan nama link yang diinginkan untuk dibagi. Namun dari segi visal, Shrib masih kalah apabila dibandingkan dengan Hastebin. 
-[`kembali ke atas`]
-
+[`kembali ke atas`](#chyrp-lite)
 #### [Bludit](https://github.com/dignajar/bludit) 
 
 ## Referensi
