@@ -7,13 +7,11 @@
 
 Hastebin adalah sebuah pastebin, yaitu aplikasi web untuk menyimpan teks. Bersifat open-source, dibuat dengan node.js, sehingga mudah diinstall di network apapun. Hastebin sangat mudah digunakan, cukup dengan menulis atau paste ke scriptnya, kemudian setelah disave akan muncul URL yang berisi teks yang sebelumnya diisikan ke script, dan dapat diakses. Hastebin tampil dengan antarmuka yang simpel dan nyaman dilihat. Teks yang disimpan dalam hastebin akan hilang setelah 30 hari dari saat teks tersebut terakhir dibuka. Teks dapat diubah atau dihapus oleh siapapun.
 
-
-
 ## Instalasi
 [`kembali ke atas`](#Hastebin)
 ### Kebutuhan
--Apache
--Redis-server
+- Apache
+- Redis-server
 
 ### Cara Instalasi
 #### Instalasi aplikasi Hastebin
@@ -48,26 +46,26 @@ npm start
 ## Pembahasan
 [`kembali ke atas`](#Hastebin)
 ### Kelebihan
--Tampilan hastebin relatif lebih simpel dan nyaman dilihat dibanding aplikasi pastebin lainnya
--Hastebin dapat mendeteksi bahasa pemrograman yang digunakan pada teks yang dituliskan (jika berupa source code), kemudian akan ditulis di URL dengan ekstensi berupa jenis bahasa pemrograman tersebut (misal: teks SQL disimpan di URL https://hastebin.com/inotoziquy.sql
--Link URL selalu ditulis dengan huruf vokal-konsonan secara bergantian sehingga dapat dibaca.
--Share link via [Twitter](https://twitter.com)
+- Tampilan hastebin relatif lebih simpel dan nyaman dilihat dibanding aplikasi pastebin lainnya
+- Hastebin dapat mendeteksi bahasa pemrograman yang digunakan pada teks yang dituliskan (jika berupa source code), kemudian akan ditulis di URL dengan ekstensi berupa jenis bahasa pemrograman tersebut (misal: teks SQL disimpan di URL https://hastebin.com/inotoziquy.sql
+- Link URL selalu ditulis dengan huruf vokal-konsonan secara bergantian sehingga dapat dibaca.
+- Share link via [Twitter](https://twitter.com)
 
 ### Kekurangan
--Privasi tidak terjaga, teks dapat diubah dan dihapus oleh siapapun
--Link bertahan selama 30 hari sejak terakhir dibuka
--Tidak dapat melakukan modifikasi link
+- Privasi tidak terjaga, teks dapat diubah dan dihapus oleh siapapun
+- Link bertahan selama 30 hari sejak terakhir dibuka
+- Tidak dapat melakukan modifikasi link
 
 
 ### Aplikasi Serupa
 [`kembali ke atas`](#Hastebin)
 #### [Chop](https://chopapp.com)
 Chop merupakan aplikasi web penyimpan teks. Chop dapat menangani syntax HTML, CSS, Java, dan lain-lain. Chop sangat mudah dingunakan untuk kolaborasi dengan fitur komentar yang disediakannya.
-#### [Pastebin] (https://github.com/lordelph/pastebin)
+#### [Pastebin](https://github.com/lordelph/pastebin)
 Pastebin merupakan aplikasi web penyimpan teks secara anonim atau tidak. Pastebin juga dapat deklarasi hightlight syntax yang dapat dipilih secara manual, selain itu pastebin dapat memilih kapan link dapat expired.
 
 
 ## Referensi
 [`kembali ke atas`](#Hastebin)
--(https://github.com/seejohnrun/haste-server/wiki)
--(https://github.com/lordelph/pastebin)
+- (https://github.com/seejohnrun/haste-server/wiki)
+- (https://github.com/lordelph/pastebin)
